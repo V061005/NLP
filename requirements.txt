@@ -1,0 +1,10 @@
+streamlit>=1.20
+stanza>=1.4.0
+pandas
+speechrecognition
+PyAudio ; platform_system == "Windows"
+
+#python -m venv venv
+#.\venv\Scripts\Activate.ps1
+#pip install -r requirements.txt
+#streamlit run app.py
